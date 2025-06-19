@@ -1,5 +1,12 @@
 # Despliegue de WordPress y Base de Datos con Docker
 
+**Autora: Martina Flores Tosini**
+
+**Proyecto: Martina-docker**
+
+**Curso: Virtualización – Despliegue de WordPress con Docker**
+
+
 ## Descripción del entorno
 
 Este entorno despliega un sitio WordPress llamado **Martina-docker** conectado a una base de datos MySQL utilizando Docker Compose. Se usan volúmenes para persistencia, y el entorno fue construido y personalizado para permitir la carga de archivos de gran tamaño.
@@ -70,13 +77,5 @@ Durante el proceso, se presentaron algunos desafíos que se resolvieron:
 ✔️ Se usó find para localizarlo en el sistema y se subió exitosamente desde WordPress.
 
 Estos errores me ayudaron a entender cómo funciona la persistencia, el build de imágenes personalizadas y la configuración interna de PHP en entornos Docker.
-
-Créditos
-Autora: Martina Flores Tosini
-
-Proyecto: Martina-docker
-
-Curso: Virtualización – Despliegue de WordPress con Docker
-
 
 
