@@ -11,8 +11,8 @@ Este entorno despliega un sitio WordPress llamado **Martina-docker** conectado a
 
 ## Archivos entregados
 
-- `docker-compose.yml`: define los servicios y sus configuraciones.
-- `Dockerfile`: modifica parámetros de PHP para permitir archivos grandes.
+- `docker-compose.yml`: define los servicios y sus configuraciones. (Se encuentra en el ZIP)
+- `Dockerfile`: modifica parámetros de PHP para permitir archivos grandes. (Se encuentra en el ZIP)
 - `README.md`: documentación del entorno, problema detectado y solución aplicada.
 
 ## Instrucciones para reproducir el entorno
